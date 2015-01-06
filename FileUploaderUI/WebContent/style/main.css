@@ -1,0 +1,23 @@
+#header-bar{height:150px;}
+
+#header{height:110px;}
+
+#user-control{position:relative;top:-130px;left:1000px;}
+
+#login{width:450px;}
+
+#navigator{background:rgb(240, 240, 240);}
+#navigator ul{display:block;margin:0px;}
+#navigator ul li{display:inline-block;}
+#navigator ul li a{display:block;padding:10px;}
+
+.jumbotron{padding: 20px !important;}
+
+#dropzone {background: #CCCCCC; width: 150px; height: 50px; line-height: 50px; text-align: center; font-weight: bold;}
+#dropzone.in { width: 600px;height: 200px; line-height: 200px; font-size: larger;}
+#dropzone.hover {background: lawngreen;}
+#dropzone.fade {-webkit-transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out;-ms-transition: all 0.3s ease-out; -o-transition: all 0.3s ease-out; transition: all 0.3s ease-out; opacity: 1;}
+
+#progress .bar{background: #ABADDB;height:10px;}
+
+#uploaded-files th, #uploaded-files td{padding:5px;}
